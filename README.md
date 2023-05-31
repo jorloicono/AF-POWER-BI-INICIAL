@@ -1,3 +1,7 @@
+# GRABACIONES
+
+- SESIÓN 1: https://transcripts.gotomeeting.com/#/s/8a475bcb87114fda91bec3fee7effec69068b87d97e70c38334edbf1cd72019e
+
 # AF-POWER-BI
 
 - Introducción al análisis de datos de Microsoft
