@@ -4,6 +4,7 @@
 - SESIÓN 2: https://transcripts.gotomeeting.com/#/s/2fd71e084edab5acbc94b9ee09bff58dcbad084a1212bcaff8a7d0902568a51b
 - SESIÓN 3: https://transcripts.gotomeeting.com/#/s/7650c97df3147268a9a9c1de5806c6382d2f7683c903b4c73bfa5ac71c0654a1
 - SESIÓN 4: https://transcripts.gotomeeting.com/#/s/0a034e43360080bcab32d79c6c3a41e6be8bfdb1a2db42f02b5d78bed9298758
+- SESIÓN 5: https://transcripts.gotomeeting.com/#/s/dd21890eabb8e1eb39d0e50668eec7c93e1da2ef2a61993c816fc743f03cd67d
 
 # AF-POWER-BI
 
