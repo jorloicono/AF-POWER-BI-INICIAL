@@ -1,5 +1,7 @@
 # GRABACIONES 
 
+- SESIÓN 1 GRUPO 1: https://transcripts.gotomeeting.com/#/s/515677b92882c89af8448a5719a855621d202875d8857694e86f291becde0870
+
 # AF-POWER-BI
 
 ## Introducción
