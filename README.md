@@ -1,5 +1,7 @@
 # AF-POWER-BI
 
+- GRABACIÓN 17/10: https://transcripts.gotomeeting.com/#/s/ef9677527694fe3a2af28ce4b9ae2f36fea5fdc60f23b4aa29a558ede87fee6c
+
 ## Introducción
 
 - ¿Qué es Power BI?
