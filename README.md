@@ -1,6 +1,8 @@
 # AF-POWER-BI
 
 - GRABACIÓN 16/10: https://transcripts.gotomeeting.com/#/s/ef9677527694fe3a2af28ce4b9ae2f36fea5fdc60f23b4aa29a558ede87fee6c
+- GRABACIÓN 17/10: https://transcripts.gotomeeting.com/#/s/e14c20c39b8685cf88bbb5817d23667013751257b48c1941b023b59a40a49722
+
 
 ## Introducción
 
