@@ -18,21 +18,20 @@
 ## Power Query
 
 - Introducción a Power Query: https://learn.microsoft.com/es-es/power-query/power-query-what-is-power-query
-- Navegación Power Query
+- Navegación Power Query: https://learn.microsoft.com/es-es/power-query/power-query-ui
 - Eliminar Columnas: https://learn.microsoft.com/es-es/power-query/choose-remove-columns
 - Eliminar Filas: https://learn.microsoft.com/es-es/power-query/filter-values
-- Conversion Tipo de Datos
+- Conversion Tipo de Datos: https://learn.microsoft.com/es-es/power-query/data-types
 - Dividir Columnas: https://learn.microsoft.com/es-es/power-query/split-columns-delimiter
 - Columnas Calculadas: https://learn.microsoft.com/es-es/power-query/add-custom-column
 - Reemplazar Valores: https://learn.microsoft.com/es-es/power-query/replace-values
-- Nombres de Columnas: https://learn.microsoft.com/es-es/power-query/rename-column
-- Aplicación de Cambios
+- Cambiar Nombres de Columnas: https://learn.microsoft.com/es-es/power-query/rename-column
 
 ## Transformar datos
 
-- Anular la Dinamización de Columnas
-- Agrupación de Datos
-- Consolidar Consultas 
+- Anular la Dinamización de Columnas: https://learn.microsoft.com/es-es/power-query/unpivot-column
+- Agrupación de Datos: https://support.microsoft.com/es-es/office/agrupar-filas-de-datos-power-query-e1b9e916-6fcc-40bf-a6e8-ef928240adf1
+- Consolidar Consultas: https://support.microsoft.com/es-es/office/importar-datos-de-una-carpeta-con-varios-archivos-power-query-94b8023c-2e66-4f6b-8c78-6a00041c90e4
 
 ## Visualización de datos en Power BI
 
