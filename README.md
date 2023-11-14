@@ -2,31 +2,30 @@
 
 ## Introducción
 
-- ¿Qué es Power BI?
-- Licencias Power BI
-- Power BI Desktop: Navegación
-- ¿Qué es BI (Business Intelligence)?
-- Datos vs Información
+- ¿Qué es Power BI?: https://www2.deloitte.com/es/es/pages/technology/articles/que-es-power-bi.html
+- Power BI Desktop: Navegación: https://imaginaformacion.com/tutoriales/introduccion-a-power-bi
+- ¿Qué es BI (Business Intelligence)?: https://www.ibm.com/es-es/topics/business-intelligence
+- Datos vs Información: https://iibi.unam.mx/voutssasmt/documentos/dato%20informacion%20conocimiento.pdf
 
 ## Conexiones a datos
 
-- Tipos de Conexiones Fuentes de Datos
-- Conexión a CSV
-- Conexión a Excel
-- Conexión a Web
-- Conexión a PDF
+- Tipos de Conexiones Fuentes de Datos: https://www.kaitsconsulting.com/conexion-power/
+- Conexión a CSV: https://learn.microsoft.com/es-es/power-bi/connect-data/service-comma-separated-value-files
+- Conexión a Excel: https://biist.pro/power-bi-con-excel
+- Conexión a Web: https://learn.microsoft.com/es-es/power-bi/connect-data/desktop-connect-to-web
+- Conexión a PDF: https://aprendebi.wordpress.com/2018/12/06/get-data-from-pdf-files-in-power-bi/
 
 ## Power Query
 
-- Introducción a Power Query
+- Introducción a Power Query: https://learn.microsoft.com/es-es/power-query/power-query-what-is-power-query
 - Navegación Power Query
-- Eliminar Columnas
-- Eliminar Filas
+- Eliminar Columnas: https://learn.microsoft.com/es-es/power-query/choose-remove-columns
+- Eliminar Filas: https://learn.microsoft.com/es-es/power-query/filter-values
 - Conversion Tipo de Datos
-- Dividir Columnas
-- Columnas Calculadas
-- Reemplazar Valores
-- Nombres de Columnas
+- Dividir Columnas: https://learn.microsoft.com/es-es/power-query/split-columns-delimiter
+- Columnas Calculadas: https://learn.microsoft.com/es-es/power-query/add-custom-column
+- Reemplazar Valores: https://learn.microsoft.com/es-es/power-query/replace-values
+- Nombres de Columnas: https://learn.microsoft.com/es-es/power-query/rename-column
 - Aplicación de Cambios
 
 ## Transformar datos
