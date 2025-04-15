@@ -1,5 +1,9 @@
 # AF-POWER-BI
 
+MS-900: https://learn.microsoft.com/es-mx/users/me/achievements?redeem=QJZ482
+
+PL-300 https://learn.microsoft.com/es-mx/users/me/achievements?redeem=94R6KM
+
 ## Introducción
 
 - ¿Qué es Power BI?: https://www2.deloitte.com/es/es/pages/technology/articles/que-es-power-bi.html
